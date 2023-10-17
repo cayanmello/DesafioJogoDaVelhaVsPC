@@ -14,7 +14,7 @@ class DesafioJogoDaVelhaVsPC
 
         while (jogarNovamente)
         {
-            jogadorAtual = 1;
+            jogadorAtual = 2;
             tabuleiro = new char[] { '1', '2', '3', '4', '5', '6', '7', '8', '9' };
 
             if (jogadorAtual % 2 == 0)
