@@ -2,7 +2,7 @@
 
 ## :computer: Projeto
 
-Repositório Desafio Jogo Da Velha Vs PC da Academia .NET 6
+Repositório desafio jogo da velha vs PC da Academia .NET 6
 
 ## ✔️ Recursos Utilizados
 
